@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suliman</h1>
-<h3 align="center"> Software engineer & Full Stack Web Developer from Saudi Arabia</h3>
+<h3 align="center"> Software engineer & Web Developer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnazysuliman&label=Profile%20views&color=0e75b6&style=flat" alt="alnazysuliman" /> </p>
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **MEAN , Javascript**
 
