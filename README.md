@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnazysuliman&label=Profile%20views&color=0e75b6&style=flat" alt="alnazysuliman" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MEAN , Javascript**
+- 💬 Ask me about **MEAN , Javascript ,Php , Python**
 
 - 📫 How to reach me **alnzysuliman@gmail.com**
 
